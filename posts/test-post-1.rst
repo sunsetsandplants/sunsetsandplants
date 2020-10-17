@@ -9,6 +9,6 @@
 
 Test post 1 for '/sunsets and plants/'.
 
-<link://gallery/demo>
+link://gallery/demo
 
-# .. gallery:: demo
+
