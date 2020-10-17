@@ -764,12 +764,12 @@ GITHUB_COMMIT_SOURCE = True
 # "source/" and the results will be located in
 # "OUTPUT_PATH/relative_destination/gallery_name"
 # Default is:
-# GALLERY_FOLDERS = {"galleries": "galleries"}
+GALLERY_FOLDERS = {"galleries": "galleries"}
 # More gallery options:
-# THUMBNAIL_SIZE = 180
-# MAX_IMAGE_SIZE = 1280
-# USE_FILENAME_AS_TITLE = True
-# EXTRA_IMAGE_EXTENSIONS = []
+THUMBNAIL_SIZE = 180
+MAX_IMAGE_SIZE = 1280
+USE_FILENAME_AS_TITLE = True
+EXTRA_IMAGE_EXTENSIONS = []
 
 # Use a thumbnail (defined by ".. previewimage:" in the gallery's index) in
 # list of galleries for each gallery
@@ -781,11 +781,11 @@ GALLERIES_USE_THUMBNAIL = False
 GALLERIES_DEFAULT_THUMBNAIL = None
 
 # If set to False, it will sort by filename instead. Defaults to True
-# GALLERY_SORT_BY_DATE = True
+GALLERY_SORT_BY_DATE = True
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized. (See also EXIF_WHITELIST)
-# PRESERVE_EXIF_DATA = False
+PRESERVE_EXIF_DATA = False
 
 # If you have enabled PRESERVE_EXIF_DATA, this option lets you choose EXIF
 # fields you want to keep in images. (See also PRESERVE_EXIF_DATA)
@@ -802,7 +802,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 # PRESERVE_EXIF_DATA is set to True
 # To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
 
-# EXIF_WHITELIST = {}
+EXIF_WHITELIST = {}
 
 # Some examples of EXIF_WHITELIST settings:
 
