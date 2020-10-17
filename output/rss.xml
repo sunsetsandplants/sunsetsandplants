@@ -1,3 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sunsets and Plants</title><link>https://sunsetsandplants.github.io/</link><description>Sunsets and Plants</description><atom:link href="https://sunsetsandplants.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:sunsetsandplants@gmail.com"&gt;Sunsets and Plants&lt;/a&gt; </copyright><lastBuildDate>Sat, 17 Oct 2020 21:42:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test post 1</title><link>https://sunsetsandplants.github.io/posts/test-post-1/</link><dc:creator>Sunsets and Plants</dc:creator><description>&lt;div&gt;&lt;p&gt;Test post 1 for '/sunsets and plants/'.&lt;/p&gt;
-&lt;p&gt;link://gallery/demo&lt;/p&gt;&lt;/div&gt;</description><guid>https://sunsetsandplants.github.io/posts/test-post-1/</guid><pubDate>Sat, 17 Oct 2020 16:13:19 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sunsets and Plants</title><link>https://sunsetsandplants.github.io/</link><description>Sunsets and Plants</description><atom:link href="https://sunsetsandplants.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2020 &lt;a href="mailto:sunsetsandplants@gmail.com"&gt;Sunsets and Plants&lt;/a&gt; </copyright><lastBuildDate>Sat, 17 Oct 2020 21:44:59 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Test post 1</title><link>https://sunsetsandplants.github.io/posts/test-post-1/</link><dc:creator>Sunsets and Plants</dc:creator><description>&lt;div&gt;&lt;p&gt;Test post 1 for '/sunsets and plants/'.&lt;/p&gt;
+
+
+&lt;div id="gallery_container"&gt;&lt;/div&gt;
+&lt;div class="row"&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://sunsetsandplants.github.io/galleries/demo/tesla_lightning2_lg.jpg" class="thumbnail image-reference" title="Tesla lightning2 lg"&gt;
+            &lt;img src="https://sunsetsandplants.github.io/galleries/demo/tesla_lightning2_lg.thumbnail.jpg" alt="Tesla lightning2 lg"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://sunsetsandplants.github.io/galleries/demo/tesla_conducts_lg.jpg" class="thumbnail image-reference" title="Tesla conducts lg"&gt;
+            &lt;img src="https://sunsetsandplants.github.io/galleries/demo/tesla_conducts_lg.thumbnail.jpg" alt="Tesla conducts lg"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://sunsetsandplants.github.io/galleries/demo/tesla_lightning1_lg.jpg" class="thumbnail image-reference" title="Tesla lightning1 lg"&gt;
+            &lt;img src="https://sunsetsandplants.github.io/galleries/demo/tesla_lightning1_lg.thumbnail.jpg" alt="Tesla lightning1 lg"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://sunsetsandplants.github.io/galleries/demo/tesla4_lg.jpg" class="thumbnail image-reference" title="Tesla4 lg"&gt;
+            &lt;img src="https://sunsetsandplants.github.io/galleries/demo/tesla4_lg.thumbnail.jpg" alt="Tesla4 lg"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-xs-6 col-md-3"&gt;
+        &lt;a href="https://sunsetsandplants.github.io/galleries/demo/tesla_tower1_lg.jpg" class="thumbnail image-reference" title="Tesla tower1 lg"&gt;
+            &lt;img src="https://sunsetsandplants.github.io/galleries/demo/tesla_tower1_lg.thumbnail.jpg" alt="Tesla tower1 lg"&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;ul class="thumbnails"&gt;
+        &lt;li&gt;
+&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><guid>https://sunsetsandplants.github.io/posts/test-post-1/</guid><pubDate>Sat, 17 Oct 2020 16:13:19 GMT</pubDate></item></channel></rss>
