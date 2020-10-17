@@ -1,0 +1,4 @@
+Sitemap: https://sunsetsandplants.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: sunsetsandplants.github.io
