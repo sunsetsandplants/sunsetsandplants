@@ -9,4 +9,6 @@
 
 Test post 1 for '/sunsets and plants/'.
 
-.. gallery:: demo
+<link://gallery/demo>
+
+# .. gallery:: demo
