@@ -6,120 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://sunsetsandplants.github.io/authors/nikola-tesla.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/categories/blog.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/categories/demo.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/categories/nikola.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/categories/python.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://sunsetsandplants.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2020-10-17T16:18:00Z</lastmod>
+  <lastmod>2020-10-17T17:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sunsetsandplants.github.io/galleries/rss.xml</loc>
-  <lastmod>2020-10-17T16:18:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/authors/nikola-tesla.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/categories/blog.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/categories/cat_nikola.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/categories/demo.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/categories/nikola.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/categories/python.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/galleries/demo/rss.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/galleries/rss.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt/rss.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/authors/nikola-tesla.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/authors/roberto-alsina.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/categories/blog.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/categories/cat_nikola.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/categories/demo.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/categories/nikola.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/categories/python.xml</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/galleries/demo/rss.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/galleries/rss.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/pt_br/rss.xml</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
+  <lastmod>2020-10-17T17:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sunsetsandplants.github.io/rss.xml</loc>
@@ -127,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://sunsetsandplants.github.io/sitemap.xml</loc>
-  <lastmod>2020-10-17T16:18:00Z</lastmod>
+  <lastmod>2020-10-17T17:08:00Z</lastmod>
  </sitemap>
 </sitemapindex>
