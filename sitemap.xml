@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://sunsetsandplants.github.io/</loc>
-  <lastmod>2020-11-02T20:13:00Z</lastmod>
+  <lastmod>2020-11-02T21:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/2019/</loc>
@@ -15,11 +15,11 @@
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/2020/</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
+  <lastmod>2020-11-02T20:35:00Z</lastmod>
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/archive.html</loc>
-  <lastmod>2020-11-02T20:13:00Z</lastmod>
+  <lastmod>2020-11-02T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/categories/</loc>
@@ -27,35 +27,19 @@
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/galleries/</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
+  <lastmod>2020-11-02T21:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/galleries/2019-10-05/</loc>
-  <lastmod>2020-11-02T19:33:00Z</lastmod>
+  <lastmod>2020-11-02T21:06:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sunsetsandplants.github.io/galleries/2019-10-05/copies%20of%20originals/</loc>
-  <lastmod>2020-11-02T19:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sunsetsandplants.github.io/galleries/2019-10-05/gimp-batch-output/</loc>
-  <lastmod>2020-11-02T19:33:00Z</lastmod>
+  <loc>https://sunsetsandplants.github.io/galleries/2019-10-06/</loc>
+  <lastmod>2020-11-02T21:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/galleries/demo/</loc>
-  <lastmod>2020-10-17T16:12:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sunsetsandplants.github.io/galleries/temp/</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sunsetsandplants.github.io/galleries/temp/copies%20of%20originals/</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sunsetsandplants.github.io/galleries/temp/gimp-batch-output/</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
+  <lastmod>2020-11-02T21:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/listings/</loc>
@@ -127,14 +111,10 @@
  </url>
  <url>
   <loc>https://sunsetsandplants.github.io/posts/1/</loc>
-  <lastmod>2020-11-02T20:21:00Z</lastmod>
+  <lastmod>2020-11-02T21:08:00Z</lastmod>
  </url>
  <url>
-  <loc>https://sunsetsandplants.github.io/posts/post-1/</loc>
-  <lastmod>2020-11-02T20:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://sunsetsandplants.github.io/posts/test-post-1/</loc>
-  <lastmod>2020-10-17T16:14:00Z</lastmod>
+  <loc>https://sunsetsandplants.github.io/posts/2/</loc>
+  <lastmod>2020-11-02T21:10:00Z</lastmod>
  </url>
 </urlset>

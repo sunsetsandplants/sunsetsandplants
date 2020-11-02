@@ -6,43 +6,27 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://sunsetsandplants.github.io/galleries/2019-10-05/copies%20of%20originals/rss.xml</loc>
-  <lastmod>2020-11-02T19:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/galleries/2019-10-05/gimp-batch-output/rss.xml</loc>
-  <lastmod>2020-11-02T19:33:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://sunsetsandplants.github.io/galleries/2019-10-05/rss.xml</loc>
   <lastmod>2020-11-02T19:33:00Z</lastmod>
  </sitemap>
  <sitemap>
+  <loc>https://sunsetsandplants.github.io/galleries/2019-10-06/rss.xml</loc>
+  <lastmod>2020-11-02T21:01:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://sunsetsandplants.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2020-10-17T17:08:00Z</lastmod>
+  <lastmod>2020-11-02T21:08:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sunsetsandplants.github.io/galleries/rss.xml</loc>
   <lastmod>2020-10-17T17:08:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://sunsetsandplants.github.io/galleries/temp/copies%20of%20originals/rss.xml</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/galleries/temp/gimp-batch-output/rss.xml</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://sunsetsandplants.github.io/galleries/temp/rss.xml</loc>
-  <lastmod>2020-11-02T19:34:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://sunsetsandplants.github.io/rss.xml</loc>
-  <lastmod>2020-11-02T20:21:00Z</lastmod>
+  <lastmod>2020-11-02T21:12:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://sunsetsandplants.github.io/sitemap.xml</loc>
-  <lastmod>2020-11-02T20:21:00Z</lastmod>
+  <lastmod>2020-11-02T21:19:00Z</lastmod>
  </sitemap>
 </sitemapindex>

@@ -1,0 +1,19 @@
+.. title: 2019-10-06
+.. slug: 
+.. date: 2019-10-06 19:30:00 UTC+01:00
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
+.. type: text
+.. previewimage: /galleries/2019-10-06/IMG_20191006_105026.jpg
+
+.. Post 2 for '*Sunsets and Plants*'.
+
+
+{{% gallery 2019-10-06 %}}
+
+`Click on an image to expand. Click here to see a tidier presentation of the gallery. </galleries/2019-10-06/>`_
+
+
+
